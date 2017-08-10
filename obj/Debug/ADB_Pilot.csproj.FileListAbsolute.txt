@@ -1,0 +1,10 @@
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\bin\Debug\ADB_Pilot.exe.config
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\bin\Debug\ADB_Pilot.exe
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\bin\Debug\ADB_Pilot.pdb
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\bin\Debug\SharpAdbClient.dll
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\obj\Debug\ADB_Pilot.csprojResolveAssemblyReference.cache
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\obj\Debug\ADB_Pilot.Form1.resources
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\obj\Debug\ADB_Pilot.Properties.Resources.resources
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\obj\Debug\ADB_Pilot.csproj.GenerateResource.Cache
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\obj\Debug\ADB_Pilot.exe
+D:\GhostHub\axu\ADB_Pilot\ADB_Pilot\obj\Debug\ADB_Pilot.pdb
